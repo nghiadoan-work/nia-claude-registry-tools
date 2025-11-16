@@ -1,1 +1,0 @@
-# Claude Tools Registry
