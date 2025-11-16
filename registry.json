@@ -1,1 +1,16 @@
-{"version": "1.0", "tools": {}}
+{
+  "version": "1.0",
+  "updated_at": "2025-11-16T23:55:00Z",
+  "tools": {
+    "cntm-developer": {
+      "name": "cntm-developer",
+      "type": "agent",
+      "description": "Expert Go CLI developer for the claude-nia-tool-management-cli (cntm) project",
+      "author": "Claude Code",
+      "latest_version": "1.0.0",
+      "versions": ["1.0.0"],
+      "tags": ["go", "cli", "development"],
+      "downloads": 0
+    }
+  }
+}
